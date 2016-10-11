@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace TodoApi.Controllers
 {
     [Route("api/[controller]")]
+    // Class comment
     public class ValuesController : Controller
     {
         // GET api/values
